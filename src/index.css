@@ -5,6 +5,14 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(125deg, orange, red);
+  /* background-color: #ff99aa;
+  background-image:
+    radial-gradient(at 32% 39%, hsla(328, 68%, 79%, 1) 0px, transparent 50%),
+    radial-gradient(at 46% 26%, hsla(335, 99%, 68%, 1) 0px, transparent 50%),
+    radial-gradient(at 56% 52%, hsla(72, 64%, 60%, 1) 0px, transparent 50%),
+    radial-gradient(at 22% 77%, hsla(270, 80%, 61%, 1) 0px, transparent 50%),
+    radial-gradient(at 69% 22%, hsla(29, 99%, 67%, 1) 0px, transparent 50%),
+    radial-gradient(at 4% 46%, hsla(228, 91%, 78%, 1) 0px, transparent 50%); */
   color: #fff;
   overflow-x: hidden;
 }
